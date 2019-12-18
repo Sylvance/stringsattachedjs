@@ -1,0 +1,2 @@
+# stringsattachedjs
+Attach, detach strings
